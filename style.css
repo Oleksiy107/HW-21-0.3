@@ -1,0 +1,16 @@
+#box {
+    display: flex;
+    gap: 2vw;
+  }
+  
+  .button {
+    padding: 1vw 2vw;
+    background: sandybrown;
+  }
+  
+  .clicked,
+  .button:hover {
+    background-color: #666;
+    color: white;
+  }
+  
